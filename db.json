@@ -1,0 +1,36 @@
+{
+  "sets": [
+    {
+      "id": "my-first-set",
+      "title": "my first set",
+      "words": [
+        {
+          "id": 1,
+          "term": "apple",
+          "def": "りんご"
+        },
+        {
+          "id": 2,
+          "term": "book",
+          "def": "本"
+        }
+      ]
+    },
+    {
+      "id": "my-second-set",
+      "title": "my second set",
+      "words": [
+        {
+          "id": 3,
+          "term": "chapter",
+          "def": "章"
+        },
+        {
+          "id": 4,
+          "term": "most",
+          "def": "ほとんどの"
+        }
+      ]
+    }
+  ]
+}
